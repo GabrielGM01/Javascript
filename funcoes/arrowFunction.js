@@ -10,6 +10,6 @@ dobro = a => 2 * a;
 
 console.log(dobro(Math.PI));
 
-let ola = () => 'olá';
+let ola = _ => 'olá';
 
 console.log(ola());
